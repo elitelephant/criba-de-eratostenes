@@ -13,8 +13,8 @@
 |---------------|
 | **eratostene.py**: [Profesora] Valeria Herskovic y curso de la Licenciatura Ingeniría Ciencia de la Computación |
 | **información_confidencial**: Santiago Reyes |
-| **La Criba de Eratóstenes.pdf**: ChatGPT, Claude AI y Santiago Reyes |
-| **La Criba de Eratóstenes**: ChatGPT, Claude AI y Santiago Reyes |
-| **README**: Claude AI, Santiago Reyes |
+| **La Criba de Eratóstenes.pdf**: Santiago Reyes, ChatGPT y Claude AI |
+| **La Criba de Eratóstenes**: Santiago Reyes, ChatGPT y Claude AI y  |
+| **README**: Santiago Reyes y Claude AI |
 
 
