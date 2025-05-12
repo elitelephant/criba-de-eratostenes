@@ -1,6 +1,6 @@
 | Nombre | Apellido | Usuario GitHub | Correo principal | Correo institucional |
 |--------|----------|----------------|-----------------|----------------------|
-| Santiago | Reyes | elitelephant | stgoreyes@gmail.com | Santiago.reyes@gmail.com |
+| Santiago | Reyes | elitelephant | stgoreyes@gmail.com | santiago.reyes@estudiante.uc.cl.com |
 
 | Contribuciones |
 |---------------|
